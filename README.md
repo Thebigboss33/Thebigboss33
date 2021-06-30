@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Better Ed](https://github.com/Thebigboss33/better-ed)
 
-- 👨‍💻 All of my projects are available at [My website is in creation](My website is in creation)
+- 👨‍💻 All of my projects are available at [My website is in creation](https://thebigboss33.tech)
 
 - 📫 How to reach me **contact.thebigboss33@gmail.com**
 
